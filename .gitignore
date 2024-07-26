@@ -49,6 +49,10 @@ Generated\ Files/
 TestResult.xml
 nunit-*.xml
 
+# Nuxt.js build / generate output
+.nuxt
+#dist
+
 # Build Results of an ATL Project
 [Dd]ebugPS/
 [Rr]eleasePS/
